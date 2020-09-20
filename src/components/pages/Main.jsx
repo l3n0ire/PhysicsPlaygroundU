@@ -24,7 +24,9 @@ function Index() {
 
             </p>
             
-
+            <h3> Press F to unlock camera</h3>
+            <h3> Press E to switch to block view</h3>
+            <h3> WASD to move</h3>
             <iframe src="https://i.simmer.io/@l3noire/physicsplaygroundu" style={{width:"960px", height:"600px",border:"0", textAlign:"center"}}></iframe>
 
             
