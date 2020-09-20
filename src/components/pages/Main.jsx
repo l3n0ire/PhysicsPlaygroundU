@@ -1,11 +1,7 @@
 import React from 'react';
 import {Fragment} from 'react';
 import './styles/Main.css'
-import tournament from './images/tournament.jpg'
-import tutorial from './images/tutorial.jpg'
-import guide from './images/guide.jpg'
-import {Link} from 'react-router-dom';
-import Unity, { UnityContent } from "react-unity-webgl";
+
 
 
 function Index() {
